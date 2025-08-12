@@ -33,7 +33,7 @@ Learning never stops  currently diving deeper into Data Analytics and creating i
 
 ### 🚀 Projects & Highlights  
 - **Deloitte Job Simulation** – Gained real-world problem-solving experience.  
-- **Heart Disease Analysis** – Predicted risks and trends using machine learning.  
+- **Heart Disease Analysis** – Predicted risks and trends using Python and PowerBI.  
 - **Virat Kohli Performance Analysis** – Visualized career stats and performance patterns.  
 - **Job Postings & Skills Analysis** – Discovered top skills in demand across industries.  
 - **Movie Rating Analysis** – Identified factors influencing audience ratings.  
